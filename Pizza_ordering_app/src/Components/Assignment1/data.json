@@ -1,0 +1,544 @@
+[
+  {
+    "month": "January",
+    "year": "2023",
+    "expenses": [
+      {
+        "Category": "shopping",
+        "amount": 53
+      },
+      {
+        "Category": "shopping",
+        "amount": 292
+      },
+      {
+        "Category": "invest",
+        "amount": 47
+      },
+      {
+        "Category": "transfer",
+        "amount": 584
+      },
+      {
+        "Category": "food",
+        "amount": 764
+      },
+      {
+        "Category": "food",
+        "amount": 799
+      },
+      {
+        "Category": "food",
+        "amount": 778
+      },
+      {
+        "Category": "transfer",
+        "amount": 230
+      },
+      {
+        "Category": "food",
+        "amount": 848
+      },
+      {
+        "Category": "transfer",
+        "amount": 829
+      },
+      {
+        "Category": "transfer",
+        "amount": 884
+      },
+      {
+        "Category": "invest",
+        "amount": 850
+      },
+      {
+        "Category": "shopping",
+        "amount": 65
+      },
+      {
+        "Category": "invest",
+        "amount": 465
+      },
+      {
+        "Category": "food",
+        "amount": 413
+      },
+      {
+        "Category": "shopping",
+        "amount": 634
+      },
+      {
+        "Category": "transfer",
+        "amount": 654
+      },
+      {
+        "Category": "shopping",
+        "amount": 890
+      },
+      {
+        "Category": "travel",
+        "amount": 121
+      },
+      {
+        "Category": "invest",
+        "amount": 647
+      },
+      {
+        "Category": "travel",
+        "amount": 92
+      },
+      {
+        "Category": "shopping",
+        "amount": 801
+      },
+      {
+        "Category": "transfer",
+        "amount": 753
+      },
+      {
+        "Category": "invest",
+        "amount": 377
+      },
+      {
+        "Category": "transfer",
+        "amount": 552
+      },
+      {
+        "Category": "travel",
+        "amount": 839
+      },
+      {
+        "Category": "transfer",
+        "amount": 576
+      },
+      {
+        "Category": "food",
+        "amount": 656
+      },
+      {
+        "Category": "travel",
+        "amount": 127
+      },
+      {
+        "Category": "food",
+        "amount": 849
+      },
+      {
+        "Category": "shopping",
+        "amount": 53
+      }
+    ],
+    "income": 17000
+  },
+  {
+    "month": "February",
+    "year": "2022",
+    "expenses": [
+      { "Category": "invest", "amount": 469 },
+      { "Category": "transfer", "amount": 42 },
+      { "Category": "travel", "amount": 494 },
+      { "Category": "food", "amount": 550 },
+      { "Category": "shopping", "amount": 594 },
+      { "Category": "travel", "amount": 708 },
+      { "Category": "transfer", "amount": 606 },
+      { "Category": "travel", "amount": 63 },
+      { "Category": "food", "amount": 222 },
+      { "Category": "transfer", "amount": 373 },
+      { "Category": "invest", "amount": 776 },
+      { "Category": "invest", "amount": 140 },
+      { "Category": "invest", "amount": 246 },
+      { "Category": "shopping", "amount": 581 },
+      { "Category": "shopping", "amount": 531 },
+      { "Category": "shopping", "amount": 790 },
+      { "Category": "food", "amount": 34 },
+      { "Category": "travel", "amount": 300 },
+      { "Category": "transfer", "amount": 148 },
+      { "Category": "shopping", "amount": 594 },
+      { "Category": "food", "amount": 406 },
+      { "Category": "shopping", "amount": 711 },
+      { "Category": "invest", "amount": 696 },
+      { "Category": "invest", "amount": 168 },
+      { "Category": "food", "amount": 801 },
+      { "Category": "transfer", "amount": 688 },
+      { "Category": "invest", "amount": 369 },
+      { "Category": "invest", "amount": 168 }
+    ],
+    "income": 13000
+  },
+  {
+    "month": "March",
+    "year": "2022",
+    "expenses": [
+      { "Category": "transfer", "amount": 463 },
+      { "Category": "shopping", "amount": 302 },
+      { "Category": "invest", "amount": 669 },
+      { "Category": "invest", "amount": 294 },
+      { "Category": "shopping", "amount": 91 },
+      { "Category": "transfer", "amount": 63 },
+      { "Category": "invest", "amount": 84 },
+      { "Category": "shopping", "amount": 156 },
+      { "Category": "food", "amount": 87 },
+      { "Category": "shopping", "amount": 810 },
+      { "Category": "travel", "amount": 746 },
+      { "Category": "invest", "amount": 483 },
+      { "Category": "transfer", "amount": 79 },
+      { "Category": "travel", "amount": 564 },
+      { "Category": "food", "amount": 584 },
+      { "Category": "travel", "amount": 658 },
+      { "Category": "food", "amount": 641 },
+      { "Category": "food", "amount": 133 },
+      { "Category": "food", "amount": 515 },
+      { "Category": "travel", "amount": 181 },
+      { "Category": "travel", "amount": 720 },
+      { "Category": "shopping", "amount": 459 },
+      { "Category": "transfer", "amount": 396 },
+      { "Category": "invest", "amount": 426 },
+      { "Category": "invest", "amount": 64 },
+      { "Category": "food", "amount": 361 },
+      { "Category": "transfer", "amount": 757 },
+      { "Category": "shopping", "amount": 551 },
+      { "Category": "food", "amount": 256 },
+      { "Category": "food", "amount": 609 },
+      { "Category": "food", "amount": 392 }
+    ],
+    "income": 13000
+  },
+  {
+    "month": "April",
+    "year": "2022",
+    "expenses": [
+      { "Category": "shopping", "amount": 451 },
+      { "Category": "transfer", "amount": 49 },
+      { "Category": "transfer", "amount": 375 },
+      { "Category": "travel", "amount": 482 },
+      { "Category": "transfer", "amount": 244 },
+      { "Category": "transfer", "amount": 261 },
+      { "Category": "transfer", "amount": 896 },
+      { "Category": "transfer", "amount": 344 },
+      { "Category": "invest", "amount": 431 },
+      { "Category": "invest", "amount": 259 },
+      { "Category": "invest", "amount": 162 },
+      { "Category": "invest", "amount": 587 },
+      { "Category": "travel", "amount": 173 },
+      { "Category": "transfer", "amount": 59 },
+      { "Category": "food", "amount": 74 },
+      { "Category": "transfer", "amount": 224 },
+      { "Category": "transfer", "amount": 739 },
+      { "Category": "travel", "amount": 317 },
+      { "Category": "travel", "amount": 623 },
+      { "Category": "travel", "amount": 544 },
+      { "Category": "transfer", "amount": 399 },
+      { "Category": "travel", "amount": 619 },
+      { "Category": "travel", "amount": 814 },
+      { "Category": "food", "amount": 513 },
+      { "Category": "shopping", "amount": 177 },
+      { "Category": "transfer", "amount": 899 },
+      { "Category": "invest", "amount": 314 },
+      { "Category": "transfer", "amount": 161 },
+      { "Category": "food", "amount": 608 },
+      { "Category": "transfer", "amount": 576 }
+    ],
+    "income": 13000
+  },
+  {
+    "month": "May",
+    "year": "2022",
+    "expenses": [
+      { "Category": "food", "amount": 457 },
+      { "Category": "travel", "amount": 482 },
+      { "Category": "transfer", "amount": 142 },
+      { "Category": "food", "amount": 127 },
+      { "Category": "invest", "amount": 507 },
+      { "Category": "invest", "amount": 831 },
+      { "Category": "shopping", "amount": 303 },
+      { "Category": "transfer", "amount": 717 },
+      { "Category": "invest", "amount": 579 },
+      { "Category": "travel", "amount": 256 },
+      { "Category": "travel", "amount": 847 },
+      { "Category": "invest", "amount": 323 },
+      { "Category": "food", "amount": 514 },
+      { "Category": "food", "amount": 291 },
+      { "Category": "food", "amount": 467 },
+      { "Category": "transfer", "amount": 807 },
+      { "Category": "food", "amount": 535 },
+      { "Category": "travel", "amount": 758 },
+      { "Category": "travel", "amount": 125 },
+      { "Category": "invest", "amount": 233 },
+      { "Category": "shopping", "amount": 788 },
+      { "Category": "transfer", "amount": 403 },
+      { "Category": "transfer", "amount": 647 },
+      { "Category": "shopping", "amount": 239 },
+      { "Category": "food", "amount": 30 },
+      { "Category": "shopping", "amount": 177 },
+      { "Category": "invest", "amount": 381 },
+      { "Category": "travel", "amount": 372 },
+      { "Category": "transfer", "amount": 75 },
+      { "Category": "transfer", "amount": 875 },
+      { "Category": "food", "amount": 420 }
+    ],
+    "income": 14000
+  },
+  {
+    "month": "June",
+    "year": "2022",
+    "expenses": [
+      { "Category": "invest", "amount": 306 },
+      { "Category": "invest", "amount": 584 },
+      { "Category": "travel", "amount": 632 },
+      { "Category": "invest", "amount": 483 },
+      { "Category": "food", "amount": 89 },
+      { "Category": "food", "amount": 58 },
+      { "Category": "travel", "amount": 261 },
+      { "Category": "travel", "amount": 457 },
+      { "Category": "shopping", "amount": 848 },
+      { "Category": "invest", "amount": 712 },
+      { "Category": "shopping", "amount": 568 },
+      { "Category": "travel", "amount": 567 },
+      { "Category": "food", "amount": 670 },
+      { "Category": "transfer", "amount": 58 },
+      { "Category": "travel", "amount": 99 },
+      { "Category": "invest", "amount": 187 },
+      { "Category": "invest", "amount": 832 },
+      { "Category": "food", "amount": 70 },
+      { "Category": "shopping", "amount": 133 },
+      { "Category": "food", "amount": 274 },
+      { "Category": "travel", "amount": 894 },
+      { "Category": "travel", "amount": 110 },
+      { "Category": "transfer", "amount": 783 },
+      { "Category": "transfer", "amount": 526 },
+      { "Category": "invest", "amount": 317 },
+      { "Category": "invest", "amount": 103 },
+      { "Category": "shopping", "amount": 141 },
+      { "Category": "invest", "amount": 206 },
+      { "Category": "shopping", "amount": 144 },
+      { "Category": "travel", "amount": 679 }
+    ],
+    "income": 12000
+  },
+  {
+    "month": "July",
+    "year": "2022",
+    "expenses": [
+      { "Category": "invest", "amount": 217 },
+      { "Category": "travel", "amount": 68 },
+      { "Category": "travel", "amount": 800 },
+      { "Category": "travel", "amount": 641 },
+      { "Category": "travel", "amount": 421 },
+      { "Category": "shopping", "amount": 540 },
+      { "Category": "transfer", "amount": 780 },
+      { "Category": "travel", "amount": 218 },
+      { "Category": "travel", "amount": 61 },
+      { "Category": "shopping", "amount": 468 },
+      { "Category": "food", "amount": 507 },
+      { "Category": "food", "amount": 545 },
+      { "Category": "food", "amount": 480 },
+      { "Category": "transfer", "amount": 843 },
+      { "Category": "food", "amount": 685 },
+      { "Category": "food", "amount": 114 },
+      { "Category": "invest", "amount": 99 },
+      { "Category": "travel", "amount": 395 },
+      { "Category": "food", "amount": 792 },
+      { "Category": "travel", "amount": 359 },
+      { "Category": "food", "amount": 675 },
+      { "Category": "invest", "amount": 347 },
+      { "Category": "shopping", "amount": 860 },
+      { "Category": "invest", "amount": 485 },
+      { "Category": "invest", "amount": 87 },
+      { "Category": "invest", "amount": 196 },
+      { "Category": "invest", "amount": 521 },
+      { "Category": "shopping", "amount": 206 },
+      { "Category": "transfer", "amount": 562 },
+      { "Category": "food", "amount": 45 },
+      { "Category": "travel", "amount": 423 }
+    ],
+    "income": 14000
+  },
+  {
+    "month": "August",
+    "year": "2022",
+    "expenses": [
+      { "Category": "food", "amount": 532 },
+      { "Category": "shopping", "amount": 566 },
+      { "Category": "invest", "amount": 507 },
+      { "Category": "invest", "amount": 126 },
+      { "Category": "shopping", "amount": 450 },
+      { "Category": "transfer", "amount": 48 },
+      { "Category": "transfer", "amount": 825 },
+      { "Category": "shopping", "amount": 189 },
+      { "Category": "transfer", "amount": 139 },
+      { "Category": "transfer", "amount": 334 },
+      { "Category": "travel", "amount": 674 },
+      { "Category": "transfer", "amount": 488 },
+      { "Category": "shopping", "amount": 878 },
+      { "Category": "food", "amount": 222 },
+      { "Category": "shopping", "amount": 105 },
+      { "Category": "invest", "amount": 704 },
+      { "Category": "shopping", "amount": 528 },
+      { "Category": "travel", "amount": 654 },
+      { "Category": "food", "amount": 817 },
+      { "Category": "shopping", "amount": 197 },
+      { "Category": "invest", "amount": 765 },
+      { "Category": "invest", "amount": 854 },
+      { "Category": "invest", "amount": 540 },
+      { "Category": "transfer", "amount": 74 },
+      { "Category": "shopping", "amount": 634 },
+      { "Category": "shopping", "amount": 598 },
+      { "Category": "shopping", "amount": 895 },
+      { "Category": "invest", "amount": 862 },
+      { "Category": "food", "amount": 394 },
+      { "Category": "shopping", "amount": 111 },
+      { "Category": "transfer", "amount": 628 }
+    ],
+    "income": 16000
+  },
+  {
+    "month": "September",
+    "year": "2022",
+    "expenses": [
+      { "Category": "transfer", "amount": 393 },
+      { "Category": "food", "amount": 610 },
+      { "Category": "travel", "amount": 637 },
+      { "Category": "transfer", "amount": 141 },
+      { "Category": "food", "amount": 160 },
+      { "Category": "invest", "amount": 528 },
+      { "Category": "food", "amount": 437 },
+      { "Category": "travel", "amount": 808 },
+      { "Category": "shopping", "amount": 615 },
+      { "Category": "travel", "amount": 871 },
+      { "Category": "shopping", "amount": 692 },
+      { "Category": "invest", "amount": 609 },
+      { "Category": "transfer", "amount": 640 },
+      { "Category": "travel", "amount": 894 },
+      { "Category": "invest", "amount": 651 },
+      { "Category": "shopping", "amount": 59 },
+      { "Category": "travel", "amount": 475 },
+      { "Category": "invest", "amount": 762 },
+      { "Category": "food", "amount": 83 },
+      { "Category": "invest", "amount": 37 },
+      { "Category": "invest", "amount": 716 },
+      { "Category": "food", "amount": 757 },
+      { "Category": "travel", "amount": 706 },
+      { "Category": "shopping", "amount": 881 },
+      { "Category": "food", "amount": 134 },
+      { "Category": "invest", "amount": 116 },
+      { "Category": "shopping", "amount": 165 },
+      { "Category": "invest", "amount": 221 },
+      { "Category": "food", "amount": 448 },
+      { "Category": "travel", "amount": 138 }
+    ],
+    "income": 15000
+  },
+  {
+    "month": "October",
+    "year": "2022",
+    "expenses": [
+      { "Category": "invest", "amount": 617 },
+      { "Category": "shopping", "amount": 859 },
+      { "Category": "transfer", "amount": 501 },
+      { "Category": "invest", "amount": 37 },
+      { "Category": "shopping", "amount": 825 },
+      { "Category": "invest", "amount": 387 },
+      { "Category": "transfer", "amount": 266 },
+      { "Category": "travel", "amount": 474 },
+      { "Category": "shopping", "amount": 851 },
+      { "Category": "transfer", "amount": 897 },
+      { "Category": "invest", "amount": 91 },
+      { "Category": "invest", "amount": 868 },
+      { "Category": "transfer", "amount": 213 },
+      { "Category": "invest", "amount": 400 },
+      { "Category": "travel", "amount": 295 },
+      { "Category": "transfer", "amount": 590 },
+      { "Category": "food", "amount": 431 },
+      { "Category": "shopping", "amount": 274 },
+      { "Category": "transfer", "amount": 557 },
+      { "Category": "travel", "amount": 424 },
+      { "Category": "food", "amount": 537 },
+      { "Category": "food", "amount": 772 },
+      { "Category": "transfer", "amount": 374 },
+      { "Category": "transfer", "amount": 358 },
+      { "Category": "shopping", "amount": 145 },
+      { "Category": "shopping", "amount": 383 },
+      { "Category": "travel", "amount": 300 },
+      { "Category": "food", "amount": 882 },
+      { "Category": "transfer", "amount": 395 },
+      { "Category": "travel", "amount": 571 },
+      { "Category": "invest", "amount": 281 }
+    ],
+    "income": 15000
+  },
+  {
+    "month": "November",
+    "year": "2022",
+    "expenses": [
+      { "Category": "transfer", "amount": 741 },
+      { "Category": "shopping", "amount": 206 },
+      { "Category": "food", "amount": 106 },
+      { "Category": "invest", "amount": 871 },
+      { "Category": "food", "amount": 689 },
+      { "Category": "shopping", "amount": 825 },
+      { "Category": "invest", "amount": 86 },
+      { "Category": "food", "amount": 510 },
+      { "Category": "travel", "amount": 111 },
+      { "Category": "travel", "amount": 822 },
+      { "Category": "transfer", "amount": 251 },
+      { "Category": "transfer", "amount": 879 },
+      { "Category": "transfer", "amount": 578 },
+      { "Category": "shopping", "amount": 879 },
+      { "Category": "food", "amount": 584 },
+      { "Category": "travel", "amount": 752 },
+      { "Category": "travel", "amount": 516 },
+      { "Category": "shopping", "amount": 469 },
+      { "Category": "transfer", "amount": 198 },
+      { "Category": "shopping", "amount": 606 },
+      { "Category": "invest", "amount": 765 },
+      { "Category": "food", "amount": 854 },
+      { "Category": "invest", "amount": 332 },
+      { "Category": "food", "amount": 259 },
+      { "Category": "transfer", "amount": 125 },
+      { "Category": "shopping", "amount": 311 },
+      { "Category": "invest", "amount": 335 },
+      { "Category": "invest", "amount": 188 },
+      { "Category": "food", "amount": 458 },
+      { "Category": "transfer", "amount": 608 }
+    ],
+    "income": 15000
+  },
+  {
+    "month": "December",
+    "year": "2022",
+    "expenses": [
+      { "Category": "food", "amount": 468 },
+      { "Category": "invest", "amount": 554 },
+      { "Category": "travel", "amount": 543 },
+      { "Category": "transfer", "amount": 176 },
+      { "Category": "shopping", "amount": 437 },
+      { "Category": "invest", "amount": 880 },
+      { "Category": "food", "amount": 564 },
+      { "Category": "food", "amount": 768 },
+      { "Category": "transfer", "amount": 802 },
+      { "Category": "transfer", "amount": 293 },
+      { "Category": "shopping", "amount": 200 },
+      { "Category": "travel", "amount": 506 },
+      { "Category": "shopping", "amount": 608 },
+      { "Category": "invest", "amount": 771 },
+      { "Category": "food", "amount": 745 },
+      { "Category": "shopping", "amount": 130 },
+      { "Category": "food", "amount": 105 },
+      { "Category": "travel", "amount": 89 },
+      { "Category": "travel", "amount": 534 },
+      { "Category": "travel", "amount": 438 },
+      { "Category": "shopping", "amount": 707 },
+      { "Category": "travel", "amount": 835 },
+      { "Category": "shopping", "amount": 416 },
+      { "Category": "shopping", "amount": 655 },
+      { "Category": "invest", "amount": 842 },
+      { "Category": "food", "amount": 602 },
+      { "Category": "shopping", "amount": 560 },
+      { "Category": "shopping", "amount": 480 },
+      { "Category": "food", "amount": 720 },
+      { "Category": "invest", "amount": 830 },
+      { "Category": "shopping", "amount": 816 }
+    ],
+    "income": 18000
+  }
+]
